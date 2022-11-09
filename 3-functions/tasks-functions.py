@@ -41,3 +41,8 @@ a = (sum(x+y))(8,4)
 local variable has the value just in a part of the script
 global variable has the value in the hall programm
 
+'''
+
+
+
+    
