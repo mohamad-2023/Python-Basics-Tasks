@@ -60,4 +60,14 @@ the condition when no condition is right
     4- check to if 2,4 and 5 in this list or not
 
 
-    '''
+
+l= [2,4,6,8,10]
+if 2 in l :
+    print ('right')
+els :
+    print ('wrong')
+
+and
+
+or
+      '''
