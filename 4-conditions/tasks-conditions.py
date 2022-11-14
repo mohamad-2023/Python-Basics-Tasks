@@ -39,7 +39,7 @@ yes as much as we need
 
 10. Can we use more than one else
 
-no
+no but Nour  told me  that it works with 'if' as 'else if' and we will ask the teacher
 
 11. Write a simple ternary operator
 
