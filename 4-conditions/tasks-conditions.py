@@ -13,7 +13,7 @@ if 10 >= 5 :
 
 3.In which case use all
 
-
+if we have maney conditions and 'and' makes problems then we use 'all'
 4. What is the differences between all, and
 
 they are same but all is better for maney conditions
