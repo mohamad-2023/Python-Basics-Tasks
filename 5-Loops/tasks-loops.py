@@ -29,10 +29,11 @@ c = int(input('Enter the number'))
 d = sum (list(range(1,c+1)))
 
 print (d)
-# some thing went wrong and to solve it convert the range into a list and print the result
+# some thing went wrong and to solve it convert the range into a list and
+#print the result
 
 
-
+------------------------------------
 
 f=0
 e = int (input ('Enter the number'))
@@ -41,7 +42,70 @@ for e in range (1,e+1):
 print('\n')
 print(f)
 
+--------------------------------------
+
+h = int(input('Enter the number'))
+for k in range (1,11):
+    l = k*h
+    print (k ,'*', h ,'=',l)
+
+
+---------------------------------
+
+numbers= [12,75,150,180,145,525,50]
+for m in numbers:
+    if (m%5 ==0 and m<150):
+        print (m)
+        continue
+    elif m >= 500 :
+        break
+    #some thiing went wrong
+
+
+--------------------------------------------
+
+
+
+#n = int (input('Enter the number')) with int did not work
+n = str (input('Enter the number'))
+#o=list( range(1,(len(n)+1))
+p = len(n)
+print (p)
+
+----------------------------------------------
+
 '''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
