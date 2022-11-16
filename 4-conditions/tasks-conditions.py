@@ -13,7 +13,7 @@ if 10 >= 5 :
 
 3.In which case use all
 
-
+if we have maney conditions and 'and' makes problems then we use 'all'
 4. What is the differences between all, and
 
 they are same but all is better for maney conditions
@@ -39,7 +39,7 @@ yes as much as we need
 
 10. Can we use more than one else
 
-no
+no but Nour  told me  that it works with 'if' as 'else if' and we will ask the teacher
 
 11. Write a simple ternary operator
 
