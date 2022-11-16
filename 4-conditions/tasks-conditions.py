@@ -70,4 +70,40 @@ els :
 and
 
 or
-      '''
+
+
+l= [2,4,6,8,10]
+if 2 and 7 in l :
+    print ('right')
+else : print ('wrong')
+
+   '''
+
+
+
+
+
+x = [2,4,6,8,10]
+y=(2,4,6)
+if all ([y]) in x :
+    print ('right')
+else : print ('wrong')
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
