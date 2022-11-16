@@ -29,3 +29,6 @@ print (y)
 6. Add 40 to the second element of the list
 
 '''
+y = list(range(10,21))
+y.append(30)
+print (y)
