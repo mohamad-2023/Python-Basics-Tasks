@@ -200,28 +200,94 @@ for num in range(start, end + 1):
 
 
 
+
+
+a = int(input())
+b=int(input())
+f=0
+x =list( range (1,10))
+y = range(x[f],j,x[f]+ x[f+1])
+g = []
+while x <= b:
+    g.append()
+    
+
+ print (y)
+
+
+
+
+# first two numbers
+num1, num2 = 0, 1
+
+print("Fibonacci sequence:")
+# run loop 10 times
+for i in range(10):
+    # print next number of a series
+    print(num1, end="  ")
+    # add last two numbers to get next number
+    res = num1 + num2
+
+    # update values
+    num1 = num2
+    num2 = res
+
+
+
+
+def slm(x):
+    y =1
+    # y must be in the def not for or redeclare y in def with a value
+    while x >=1:
+        y =y*x
+        x= x-1
+
+    print(y)
+
+
+
+
+num = 5
+factorial = 1
+if num < 0:
+    print("Factorial does not exist for negative numbers")
+elif num == 0:
+    print("The factorial of 0 is 1")
+else:
+    # run loop 5 times
+    for i in range(1, num + 1):
+        # multiply factorial by current number
+        factorial = factorial * i
+    print("The factorial of", num, "is", factorial)
+
+    
+
+
+
+x = int(input('Enter the number'))
+y =x.split(' ')
+reverse(y)
+y.join(' ')
+
+
+
+
+num = 5
+factorial = 1
+if num < 0:
+    print("Factorial does not exist for negative numbers")
+elif num == 0:
+    print("The factorial of 0 is 1")
+else:
+    # run loop 5 times
+    for i in range(1, num + 1):
+        # multiply factorial by current number
+        factorial = factorial * i
+    print("The factorial of", num, "is", factorial)
+
+
+
 '''
-
-
-a=0
-b=1
-for x in range (a,b+1,a+b):
-    print (x,end='')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
