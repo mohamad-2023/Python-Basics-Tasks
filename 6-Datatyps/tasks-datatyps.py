@@ -22,6 +22,9 @@ y = list(range(10,21))
 y = list(range(10,21))
 y.append(30)
 print (y)
+#slicing
+y[0]
+y[1]
 
 
 
@@ -72,6 +75,8 @@ no we can not
 
 d =  {'Mahmoud':28, 'Ahmad':30}
 print(d['Mahmoud'])
+d.(keyes)
+d.(values)
 
 
 12. Print Mahmoud age from dict
