@@ -97,6 +97,9 @@ print(odd_list)
 10. Get a list of even numbers from 1 to 100 using range
 
 i thimk it is as ssme as 8 or 9
+
+
+no  11 and 12 and 13 1nd 14 
 '''
 
 
