@@ -82,6 +82,7 @@ d.(values)
 12. Print Mahmoud age from dict
 d =  {'Mahmoud':28, 'Ahmad':30}
 d['Mahmoud']
+#the "" and '' for the strings (str)is important to make the function work
 
 13. What are the differences between mutable an immutable data types?
 
