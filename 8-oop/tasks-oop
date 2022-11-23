@@ -14,7 +14,8 @@ class calculator:
 
 # 3 : Create a constructor that prints Welcome message
 
-
+class a:
+   def __init__ ()
 
 
 # 4 : Add 2 methods to the class & mull
