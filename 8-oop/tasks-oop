@@ -1,10 +1,14 @@
 # 1 : Explain in few words what we mean by a class give and example
 '''
-
+A Python class is like an outline for creating a new object. An object is anything that you wish to manipulate or change while working through the code
 '''
 
 # 2 : Create a simple class names calculator
-
+class calculator:
+      def(self,x,y):
+         c=x+y
+         return(c)
+         print (c)
 
 
 
