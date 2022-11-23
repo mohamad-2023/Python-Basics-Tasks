@@ -5,7 +5,7 @@ A Python class is like an outline for creating a new object. An object is anythi
 
 # 2 : Create a simple class names calculator
 class calculator:
-      def(self,x,y):
+      def summ(self,x,y):
          c=x+y
          return(c)
          print (c)
