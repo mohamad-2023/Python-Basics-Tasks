@@ -20,42 +20,55 @@ class a:
 
 # 4 : Add 2 methods to the class & mull
 
+class a:
+      defvsumm(self,x,y)
+            return(x+y)
+      def mull:
+            return(x*y)
 
 
 
 # 5 : The sum method return the sum of 2 arguments x and y
 
-
+class a:
+      defvsumm(self,x,y)
+            return(x+y)
+      def mull:
+            return(x*y)
 
 
 # 6 : The mull method return the multiplication of the arguments x and y
 
-
+class a:
+      defvsumm(self,x,y)
+            return(x+y)
+      def mull:
+            return(x*y)
 
 
 # 7 : Take an object from the class
 
-
+a.summ(5,3)
+a.mull(7,4)
 
 
 # 8 : Call the sum method with 10 , 20
-
+a.summ(10,20)
 
 
 
 # 9 : Call the mull method with 10 , 20
-
-
+a.mull(10,20)
 
 
 # 10 : Explain in few words why we call the self in methods
 '''
-
+pyhton take the def with two arguments for examplw but it need too to another variable for the class
 '''
 
 # 11 : What we mean with OOP 4 Pillars
 '''
-
+orinted opjeckt programming
 '''
 
 # 12 : Why we use OOP in our code
