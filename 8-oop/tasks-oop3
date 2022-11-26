@@ -1,1 +1,15 @@
-lkjslhgasoihgkj höhafs
+'''
+Python OOP Tasks Part 3
+1. What so we mean with the term:
+   1-Base class
+   2- Parent class
+   3- sub class
+   4- Main class
+   5- Derived class
+   6- Instance
+
+2. Explain in few words what we mean with the word Polymorphism, give an example
+
+3. Cam we inherit from more than one class in python
+
+4. If yes how multiple inheritance works
